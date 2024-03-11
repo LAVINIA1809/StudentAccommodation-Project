@@ -8,3 +8,5 @@ Funcționalități din interfață:
 - un student se poate înregistra înainte de a se face repartizarea
 - ulterior, repartizarea se face de un admin (acesta se va conecta cu credențialele corespunzătoare)
 - după repartizare, un student va putea verifica la ce cămin a fost repartizat
+
+Echipa: Bucătariu Lavinia-Maria, Pipa Anadoria
